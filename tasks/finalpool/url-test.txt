@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/SpecterPeasant/BenchTasksCollv3/main/tasks/examples/example-task/readme.txt
